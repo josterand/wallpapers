@@ -1,5 +1,5 @@
 # Josterand's Wallpaper Gallery
-Total: 28 wallpapers
+Total: 25 wallpapers
 
 <table>
   <tr>
@@ -50,26 +50,12 @@ Total: 28 wallpapers
       <sub>frieren-06.jpg</sub>
     </td>
     <td align="center" width="33%">
-      <a href="Collection/jungle-portal.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fjungle-portal.jpg&w=400&output=webp&q=50" width="100%" alt="jungle-portal.jpg"></a><br>
-      <sub>jungle-portal.jpg</sub>
-    </td>
-    <td align="center" width="33%">
       <a href="Collection/kali-linux.png"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fkali-linux.png&w=400&output=webp&q=50" width="100%" alt="kali-linux.png"></a><br>
       <sub>kali-linux.png</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="Collection/kaoruko-waguri-lenovo.png"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fkaoruko-waguri-lenovo.png&w=400&output=webp&q=50" width="100%" alt="kaoruko-waguri-lenovo.png"></a><br>
       <sub>kaoruko-waguri-lenovo.png</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="Collection/leaves-01.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fleaves-01.jpg&w=400&output=webp&q=50" width="100%" alt="leaves-01.jpg"></a><br>
-      <sub>leaves-01.jpg</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="Collection/leaves-02.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fleaves-02.jpg&w=400&output=webp&q=50" width="100%" alt="leaves-02.jpg"></a><br>
-      <sub>leaves-02.jpg</sub>
     </td>
   </tr>
   <tr>
