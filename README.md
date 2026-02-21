@@ -4,156 +4,156 @@ Total: 33 wallpapers
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="Collection/arknights-amiya.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Farknights-amiya.jpg&w=400&output=webp&q=50" width="100%" alt="arknights-amiya.jpg"></a><br>
-      <sub>arknights-amiya.jpg</sub>
+      <a href="Collection/anime-arknights-amiya.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fanime-arknights-amiya.jpg&w=400&output=webp&q=50" width="100%" alt="anime-arknights-amiya.jpg"></a><br>
+      <sub>anime-arknights-amiya.jpg</sub>
     </td>
     <td align="center" width="33%">
-      <a href="Collection/black-hole.png"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fblack-hole.png&w=400&output=webp&q=50" width="100%" alt="black-hole.png"></a><br>
-      <sub>black-hole.png</sub>
+      <a href="Collection/anime-arknights-skadi-01.png"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fanime-arknights-skadi-01.png&w=400&output=webp&q=50" width="100%" alt="anime-arknights-skadi-01.png"></a><br>
+      <sub>anime-arknights-skadi-01.png</sub>
     </td>
     <td align="center" width="33%">
-      <a href="Collection/bw-01.png"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fbw-01.png&w=400&output=webp&q=50" width="100%" alt="bw-01.png"></a><br>
-      <sub>bw-01.png</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="Collection/bw-02.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fbw-02.jpg&w=400&output=webp&q=50" width="100%" alt="bw-02.jpg"></a><br>
-      <sub>bw-02.jpg</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="Collection/bw-03.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fbw-03.jpg&w=400&output=webp&q=50" width="100%" alt="bw-03.jpg"></a><br>
-      <sub>bw-03.jpg</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="Collection/bw-04.jpeg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fbw-04.jpeg&w=400&output=webp&q=50" width="100%" alt="bw-04.jpeg"></a><br>
-      <sub>bw-04.jpeg</sub>
+      <a href="Collection/anime-arknights-skadi-02.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fanime-arknights-skadi-02.jpg&w=400&output=webp&q=50" width="100%" alt="anime-arknights-skadi-02.jpg"></a><br>
+      <sub>anime-arknights-skadi-02.jpg</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="Collection/bw-05.png"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fbw-05.png&w=400&output=webp&q=50" width="100%" alt="bw-05.png"></a><br>
-      <sub>bw-05.png</sub>
+      <a href="Collection/anime-frieren-01.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fanime-frieren-01.jpg&w=400&output=webp&q=50" width="100%" alt="anime-frieren-01.jpg"></a><br>
+      <sub>anime-frieren-01.jpg</sub>
     </td>
     <td align="center" width="33%">
-      <a href="Collection/bw-06.png"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fbw-06.png&w=400&output=webp&q=50" width="100%" alt="bw-06.png"></a><br>
-      <sub>bw-06.png</sub>
+      <a href="Collection/anime-frieren-02.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fanime-frieren-02.jpg&w=400&output=webp&q=50" width="100%" alt="anime-frieren-02.jpg"></a><br>
+      <sub>anime-frieren-02.jpg</sub>
     </td>
     <td align="center" width="33%">
-      <a href="Collection/bw-07.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fbw-07.jpg&w=400&output=webp&q=50" width="100%" alt="bw-07.jpg"></a><br>
-      <sub>bw-07.jpg</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="Collection/crane.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fcrane.jpg&w=400&output=webp&q=50" width="100%" alt="crane.jpg"></a><br>
-      <sub>crane.jpg</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="Collection/el-capitan.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fel-capitan.jpg&w=400&output=webp&q=50" width="100%" alt="el-capitan.jpg"></a><br>
-      <sub>el-capitan.jpg</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="Collection/foliage-01.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Ffoliage-01.jpg&w=400&output=webp&q=50" width="100%" alt="foliage-01.jpg"></a><br>
-      <sub>foliage-01.jpg</sub>
+      <a href="Collection/anime-frieren-03.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fanime-frieren-03.jpg&w=400&output=webp&q=50" width="100%" alt="anime-frieren-03.jpg"></a><br>
+      <sub>anime-frieren-03.jpg</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="Collection/frieren-01.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Ffrieren-01.jpg&w=400&output=webp&q=50" width="100%" alt="frieren-01.jpg"></a><br>
-      <sub>frieren-01.jpg</sub>
+      <a href="Collection/anime-girl-balcony.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fanime-girl-balcony.jpg&w=400&output=webp&q=50" width="100%" alt="anime-girl-balcony.jpg"></a><br>
+      <sub>anime-girl-balcony.jpg</sub>
     </td>
     <td align="center" width="33%">
-      <a href="Collection/frieren-02.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Ffrieren-02.jpg&w=400&output=webp&q=50" width="100%" alt="frieren-02.jpg"></a><br>
-      <sub>frieren-02.jpg</sub>
+      <a href="Collection/anime-kaoruko-waguri.png"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fanime-kaoruko-waguri.png&w=400&output=webp&q=50" width="100%" alt="anime-kaoruko-waguri.png"></a><br>
+      <sub>anime-kaoruko-waguri.png</sub>
     </td>
     <td align="center" width="33%">
-      <a href="Collection/frieren-03.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Ffrieren-03.jpg&w=400&output=webp&q=50" width="100%" alt="frieren-03.jpg"></a><br>
-      <sub>frieren-03.jpg</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="Collection/girl-in-balcony.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fgirl-in-balcony.jpg&w=400&output=webp&q=50" width="100%" alt="girl-in-balcony.jpg"></a><br>
-      <sub>girl-in-balcony.jpg</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="Collection/hatsune-miku-walking.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fhatsune-miku-walking.jpg&w=400&output=webp&q=50" width="100%" alt="hatsune-miku-walking.jpg"></a><br>
-      <sub>hatsune-miku-walking.jpg</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="Collection/kaoruko-waguri-lenovo.png"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fkaoruko-waguri-lenovo.png&w=400&output=webp&q=50" width="100%" alt="kaoruko-waguri-lenovo.png"></a><br>
-      <sub>kaoruko-waguri-lenovo.png</sub>
+      <a href="Collection/anime-vocaloid-miku.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fanime-vocaloid-miku.jpg&w=400&output=webp&q=50" width="100%" alt="anime-vocaloid-miku.jpg"></a><br>
+      <sub>anime-vocaloid-miku.jpg</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="Collection/mazda-renown-787b-front.png"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fmazda-renown-787b-front.png&w=400&output=webp&q=50" width="100%" alt="mazda-renown-787b-front.png"></a><br>
-      <sub>mazda-renown-787b-front.png</sub>
+      <a href="Collection/art-bw-minimal-landscape.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fart-bw-minimal-landscape.jpg&w=400&output=webp&q=50" width="100%" alt="art-bw-minimal-landscape.jpg"></a><br>
+      <sub>art-bw-minimal-landscape.jpg</sub>
     </td>
     <td align="center" width="33%">
-      <a href="Collection/mazda-renown-787b-rear.png"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fmazda-renown-787b-rear.png&w=400&output=webp&q=50" width="100%" alt="mazda-renown-787b-rear.png"></a><br>
-      <sub>mazda-renown-787b-rear.png</sub>
+      <a href="Collection/art-statue-prometheus.png"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fart-statue-prometheus.png&w=400&output=webp&q=50" width="100%" alt="art-statue-prometheus.png"></a><br>
+      <sub>art-statue-prometheus.png</sub>
     </td>
     <td align="center" width="33%">
-      <a href="Collection/medieval-harbor.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fmedieval-harbor.jpg&w=400&output=webp&q=50" width="100%" alt="medieval-harbor.jpg"></a><br>
-      <sub>medieval-harbor.jpg</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="Collection/mitsubishi-lancer-evolution-x-01.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fmitsubishi-lancer-evolution-x-01.jpg&w=400&output=webp&q=50" width="100%" alt="mitsubishi-lancer-evolution-x-01.jpg"></a><br>
-      <sub>mitsubishi-lancer-evolution-x-01.jpg</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="Collection/mitsubishi-lancer-evolution-x-02.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fmitsubishi-lancer-evolution-x-02.jpg&w=400&output=webp&q=50" width="100%" alt="mitsubishi-lancer-evolution-x-02.jpg"></a><br>
-      <sub>mitsubishi-lancer-evolution-x-02.jpg</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="Collection/nebula.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fnebula.jpg&w=400&output=webp&q=50" width="100%" alt="nebula.jpg"></a><br>
-      <sub>nebula.jpg</sub>
+      <a href="Collection/nature-bw-fuji-mountain.jpeg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fnature-bw-fuji-mountain.jpeg&w=400&output=webp&q=50" width="100%" alt="nature-bw-fuji-mountain.jpeg"></a><br>
+      <sub>nature-bw-fuji-mountain.jpeg</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="Collection/nissan-gtr-r34.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fnissan-gtr-r34.jpg&w=400&output=webp&q=50" width="100%" alt="nissan-gtr-r34.jpg"></a><br>
-      <sub>nissan-gtr-r34.jpg</sub>
+      <a href="Collection/nature-bw-fuji-torii.png"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fnature-bw-fuji-torii.png&w=400&output=webp&q=50" width="100%" alt="nature-bw-fuji-torii.png"></a><br>
+      <sub>nature-bw-fuji-torii.png</sub>
     </td>
     <td align="center" width="33%">
-      <a href="Collection/skadi-16-9.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fskadi-16-9.jpg&w=400&output=webp&q=50" width="100%" alt="skadi-16-9.jpg"></a><br>
-      <sub>skadi-16-9.jpg</sub>
+      <a href="Collection/nature-bw-mountain-birds.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fnature-bw-mountain-birds.jpg&w=400&output=webp&q=50" width="100%" alt="nature-bw-mountain-birds.jpg"></a><br>
+      <sub>nature-bw-mountain-birds.jpg</sub>
     </td>
     <td align="center" width="33%">
-      <a href="Collection/skadi-full.png"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fskadi-full.png&w=400&output=webp&q=50" width="100%" alt="skadi-full.png"></a><br>
-      <sub>skadi-full.png</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="Collection/star-wars-2.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fstar-wars-2.jpg&w=400&output=webp&q=50" width="100%" alt="star-wars-2.jpg"></a><br>
-      <sub>star-wars-2.jpg</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="Collection/star-wars.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fstar-wars.jpg&w=400&output=webp&q=50" width="100%" alt="star-wars.jpg"></a><br>
-      <sub>star-wars.jpg</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="Collection/statue.png"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fstatue.png&w=400&output=webp&q=50" width="100%" alt="statue.png"></a><br>
-      <sub>statue.png</sub>
+      <a href="Collection/nature-bw-tree-cliff.png"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fnature-bw-tree-cliff.png&w=400&output=webp&q=50" width="100%" alt="nature-bw-tree-cliff.png"></a><br>
+      <sub>nature-bw-tree-cliff.png</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="Collection/torii.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Ftorii.jpg&w=400&output=webp&q=50" width="100%" alt="torii.jpg"></a><br>
-      <sub>torii.jpg</sub>
+      <a href="Collection/nature-bw-whale.png"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fnature-bw-whale.png&w=400&output=webp&q=50" width="100%" alt="nature-bw-whale.png"></a><br>
+      <sub>nature-bw-whale.png</sub>
     </td>
     <td align="center" width="33%">
-      <a href="Collection/windows-10.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fwindows-10.jpg&w=400&output=webp&q=50" width="100%" alt="windows-10.jpg"></a><br>
-      <sub>windows-10.jpg</sub>
+      <a href="Collection/nature-el-capitan.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fnature-el-capitan.jpg&w=400&output=webp&q=50" width="100%" alt="nature-el-capitan.jpg"></a><br>
+      <sub>nature-el-capitan.jpg</sub>
     </td>
     <td align="center" width="33%">
-      <a href="Collection/windows-xp.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fwindows-xp.jpg&w=400&output=webp&q=50" width="100%" alt="windows-xp.jpg"></a><br>
-      <sub>windows-xp.jpg</sub>
+      <a href="Collection/nature-foliage-01.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fnature-foliage-01.jpg&w=400&output=webp&q=50" width="100%" alt="nature-foliage-01.jpg"></a><br>
+      <sub>nature-foliage-01.jpg</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="Collection/nature-torii-mountain.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fnature-torii-mountain.jpg&w=400&output=webp&q=50" width="100%" alt="nature-torii-mountain.jpg"></a><br>
+      <sub>nature-torii-mountain.jpg</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="Collection/pop-star-wars-01.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fpop-star-wars-01.jpg&w=400&output=webp&q=50" width="100%" alt="pop-star-wars-01.jpg"></a><br>
+      <sub>pop-star-wars-01.jpg</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="Collection/pop-star-wars-02.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fpop-star-wars-02.jpg&w=400&output=webp&q=50" width="100%" alt="pop-star-wars-02.jpg"></a><br>
+      <sub>pop-star-wars-02.jpg</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="Collection/space-black-hole.png"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fspace-black-hole.png&w=400&output=webp&q=50" width="100%" alt="space-black-hole.png"></a><br>
+      <sub>space-black-hole.png</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="Collection/space-nebula.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fspace-nebula.jpg&w=400&output=webp&q=50" width="100%" alt="space-nebula.jpg"></a><br>
+      <sub>space-nebula.jpg</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="Collection/tech-windows-10.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Ftech-windows-10.jpg&w=400&output=webp&q=50" width="100%" alt="tech-windows-10.jpg"></a><br>
+      <sub>tech-windows-10.jpg</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="Collection/tech-windows-xp.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Ftech-windows-xp.jpg&w=400&output=webp&q=50" width="100%" alt="tech-windows-xp.jpg"></a><br>
+      <sub>tech-windows-xp.jpg</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="Collection/urban-bw-city-window.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Furban-bw-city-window.jpg&w=400&output=webp&q=50" width="100%" alt="urban-bw-city-window.jpg"></a><br>
+      <sub>urban-bw-city-window.jpg</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="Collection/urban-construction-crane.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Furban-construction-crane.jpg&w=400&output=webp&q=50" width="100%" alt="urban-construction-crane.jpg"></a><br>
+      <sub>urban-construction-crane.jpg</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="Collection/urban-medieval-harbor.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Furban-medieval-harbor.jpg&w=400&output=webp&q=50" width="100%" alt="urban-medieval-harbor.jpg"></a><br>
+      <sub>urban-medieval-harbor.jpg</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="Collection/vehicle-car-mazda-787b-front.png"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fvehicle-car-mazda-787b-front.png&w=400&output=webp&q=50" width="100%" alt="vehicle-car-mazda-787b-front.png"></a><br>
+      <sub>vehicle-car-mazda-787b-front.png</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="Collection/vehicle-car-mazda-787b-rear.png"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fvehicle-car-mazda-787b-rear.png&w=400&output=webp&q=50" width="100%" alt="vehicle-car-mazda-787b-rear.png"></a><br>
+      <sub>vehicle-car-mazda-787b-rear.png</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="Collection/vehicle-car-mitsubishi-evo-x-01.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fvehicle-car-mitsubishi-evo-x-01.jpg&w=400&output=webp&q=50" width="100%" alt="vehicle-car-mitsubishi-evo-x-01.jpg"></a><br>
+      <sub>vehicle-car-mitsubishi-evo-x-01.jpg</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="Collection/vehicle-car-mitsubishi-evo-x-02.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fvehicle-car-mitsubishi-evo-x-02.jpg&w=400&output=webp&q=50" width="100%" alt="vehicle-car-mitsubishi-evo-x-02.jpg"></a><br>
+      <sub>vehicle-car-mitsubishi-evo-x-02.jpg</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="Collection/vehicle-car-nissan-gtr-r34.jpg"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjosterand%2Fwallpapers%2Fmain%2FCollection%2Fvehicle-car-nissan-gtr-r34.jpg&w=400&output=webp&q=50" width="100%" alt="vehicle-car-nissan-gtr-r34.jpg"></a><br>
+      <sub>vehicle-car-nissan-gtr-r34.jpg</sub>
     </td>
   </tr>
 </table>
